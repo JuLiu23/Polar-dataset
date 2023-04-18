@@ -1,1 +1,1 @@
-Our complete Polar-dataset is uploaded as soon as the article is received.
+Our complete Polar-dataset is uploaded as soon as the article is accepted.
